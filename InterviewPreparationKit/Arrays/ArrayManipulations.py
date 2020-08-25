@@ -1,5 +1,5 @@
 #!/bin/python3
-# IN PROGRESS
+# IN PROGRESS (Will be finished soon)
 
 import math
 import os
